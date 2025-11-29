@@ -221,7 +221,6 @@ Once the server is running, you can access the UI at <http://localhost:8081>.
 1) First install magentic-ui with the fara extras:
 
 ```bash
-```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install magentic-ui[fara]
